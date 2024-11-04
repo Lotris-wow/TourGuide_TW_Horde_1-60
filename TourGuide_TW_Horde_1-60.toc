@@ -1,0 +1,18 @@
+## Interface: 11200
+
+## Title: TourGuide |cff7fff7f_TW_|r Horde 1-60
+## Notes: made by Lotris with Furious online guides and some editions
+## Author: Lotris
+## Version: 1.0
+## X-Credits: Tekkub
+## X-Category: Leveling Guides
+## RequiredDeps: TourGuideVanilla
+## OptionalDeps: Dongle, TomTom
+## DefaultState: enabled
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+## X-Website: https://github.com/Lotris-wow/TourGuide_TW_Horde_1-60
+
+Guides.xml
+
