@@ -1,7 +1,7 @@
 ## Interface: 11200
 
 ## Title: TourGuide |cff7fff7f_TW_|r Horde 1-60
-## Notes: made by Lotris with Furious online guides and some editions
+## Notes: made with Furious online guides
 ## Author: Lotris
 ## Version: 1.0
 ## X-Credits: Tekkub

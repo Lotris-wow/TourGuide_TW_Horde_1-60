@@ -84,36 +84,38 @@ C Battle of Hillsbrad (Part 7) |QID|550| |N|Run southwest again to get back to D
 
 F Undercity |Z|Undercity|
 T Battle of Hillsbrad (Part 7) |QID|550| |N|Turn in Battle of Hillsbrad|
+T Elixir of Agony (Part 2) |QID|513|
+A Elixir of Agony (Part 3) |QID|515|
+A Going, Going, Guano! |QID|1109| |N| If you want to go Razorfen Kraul in future| |O|
+
 H Orgrimmar |N|Use your hearthstone to go back to Orgrimmar. Use the auction house and repair|
 
 F Camp Taurajo |N|Take a flight to Camp Taurajo| |Z|Camp Taurajo|
 A Melor Sends Word |QID|1130|
-R Now follow the road all the way south to the Great Lift.
+R Southern Gold Road |N|Now follow the road all the way south to the Great Lift|
+T Calling in the Reserves |QID|5881| |O|
 A Message to Freewind Post |QID|4542|
-N Take the elevator down to Thousand Needles. 
-N Once you’re down, run south on the road until it splits into two, follow it to the east.
-N Before the zone starts to narrow in front of you, there will be a large bluff to your right with elevators next to it. 
-N Get on the elevator and ride it up to Freewind Post.
+N Take the elevator down to Thousand Needles |N|Once you’re down, run south on the road until it splits into two, follow it to the east|
+R Freewind Post |N| Before the zone starts to narrow in front of you, there will be a large bluff to your right with elevators next to it (32.0, 43.5)| |Z|Thousand Needles|
+N Get on the elevator and ride it up to Freewind Post |N|(46.2, 47.4)| |Z|Thousand Needles|
 
-T Turn in Message to Freewind Post 
+T Message to Freewind Post |QID|4542|
+A Wanted - Arnak Grimtotem |QID|5147| 
 A Pacify the Centaur |QID|4841| 
 A Alien Egg |QID|4821|
 A Wind Rider |QID|4767|
-A Wanted - Arnak Grimtotem |QID|5147| 
 
 f Get the flightpath before going back down 
 
-N Ride down and go northwest until you see a large encampment of centaurs.
-N Once you’ve killed all the centaurs needed for Pacify the Centaur, run east and follow the mountain to your left. 
-N ventually you’ll see a way up. Follow it and enter the cave you find.
+C Pacify the Centaur |QID|4841| |N| Ride down and go northwest until you see a large encampment of centaurs|
+N Once you’ve killed all the centaurs needed for Pacify the Centaur |N|run east and follow the mountain to your left. Follow it and enter the cave you find (54.7, 44.6)|
+R Weathered Nook |Z|Thousand Needles|
 A Test of Faith |QID|1149| |N|Test of Faith|
-N After being teleported, search for a couple of planks to jump from. 
-N Make a leap of faith (you won’t die) off the mountain to return to the cave. 
+C Test of Faith |QID|1149| |N|Test of Faith| |N| After being teleported, search for a couple of planks to jump from. Make a leap of faith (you won’t die) off the mountain to return to the cave|
 T Test of Faith |QID|1149|
 A Test of Endurance |QID|1150|
 
 N You should be level 29 now |N|If you aren’t, run west back to the centaur camp and grind until you are|
-
 
 N Guide Complete |N|Tick to continue to the next guide|
 
