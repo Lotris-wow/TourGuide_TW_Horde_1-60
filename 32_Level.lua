@@ -37,18 +37,13 @@ T Salt Flat Venom |QID|1104|
 T Rocket Car Parts |QID|1110|
 
 N Accept two follow up quests
-A Goblin Sponsorship |QID|1178|
+A Goblin Sponsorship (part 1)|QID|1178|
 A Martek the Exiled |QID|1106|
 N Kill turtles until you have 10 Turtle Meat
-N Turtle Meat Grind on enemies in the area until you are level 33
+N Turtle Meat Grind on enemies in the area until you are level 33 or Do Scarlet Monastery Guide (25-33)
 
 
 N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
 end)
-
---[[ 
-
-
- ]]

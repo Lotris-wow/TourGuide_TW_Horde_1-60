@@ -7,4 +7,5 @@
    <Script file="30_Level.lua"/>
    <Script file="31_Level.lua"/>
    <Script file="32_Level.lua"/>
+   <Script file="33_Level.lua"/>
 </Ui>
