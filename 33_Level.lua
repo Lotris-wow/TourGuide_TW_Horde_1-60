@@ -17,7 +17,7 @@ b Booty Bay |N|Now ride the boat to Booty Bay|
 T Goblin Sponsorship |QID|1180| |N|Turn in Goblin Sponsorship (Part 2)|
 A Goblin Sponsorship |QID|1181| |N|Accept Goblin Sponsorship (Part 3)|
 N Run to the inn
-A Singing Blue Shardss |QID|605| |N|Accept the quest: Singing Blue Shardss|
+A Singing Blue Shards |QID|605| |N|Accept the quest: Singing Blue Shardss|
 N Climb up and accept three more quests: 
 A Investigate the Camp |QOD|201| |Z|Booty Bay|
 A Hostile Takeover |QID|213| |Z|Booty Bay|
@@ -76,7 +76,7 @@ C Tiger Mastery (Part 2) |QID|186| |N|Tiger Mastery|
 N Head to the southwest corner of the plateau and kill the raptors you see there 
 
 C Raptor Mastery (Part 1) |QID|194| |N|Raptor Mastery|
-R Bal'lal Ruins |N|Run South to reach Bal'lal Ruins| |Z|Stranglethorn Vale|
+R Bal'lal Ruins |N|Run South to reach Bal'lal Ruins (28.6, 19.2) | |Z|Stranglethorn Vale|
 
 N Kill all the trolls here |N| Until Bloody Bone Necklaces, Bloodscalp Ears, and Hunt for Yenniku are finished. There are more trolls to the northeast|
 
@@ -92,6 +92,7 @@ N Now dive into the water and look around until you find some ruins
 N There will be elite murlocs guarding it
 N There will be a tablet laying against a wall in the ruins
 N Dive down and pick the tablet up without drawing attention from the murlocs
+C The Vile Reef |QID|629|
 
 R Nesingwary's Expedition |N|Exit the water and head northeast until you reach Nesingwary's Expedition again|
 
