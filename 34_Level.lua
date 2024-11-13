@@ -54,7 +54,7 @@ T Helcular’s Revenge (Part 1) |QID|552|
 
 N Accept the follow up quests
 A Elixir of Agony (Part 4) |QID|517| |N|Elixir of Agony|
-A Helcular's Revenge (Part 2) |QID|| |N|Helcular's Revenge|
+A Helcular's Revenge (Part 2) |QID|553| |N|Helcular's Revenge|
 
 N Make sure to repair, sell junk, and buy food if you need it
 N The next part is quite difficult and is much easier in a group |N|but you can still complete it if you pull slowly and smartly|
@@ -64,7 +64,8 @@ N Keep going until you reach the eastern wall
 N Run southwest from here to reach Dun Garok
 R Dun Garok |N|(67, 68)| |Z|Hillsbrad Foothils|
 N Fight your way into the fortress and enter a side room
-N Run downstairs to pick up a Keg of Shindigger Stout |L|1727| 
+N Run downstairs to pick up a Keg of Shindigger Stout |L|1727|
+C Elixir of Agony (Part 4) |QID|517| |L|1727|
 
 N Now look for Captain Ironhill |N|Now look for Captain Ironhill, who is either on the top floor or in the main room at the bottom of the stairs.
 N Try to pull Ironhill without any additional dwarves and kill him|
