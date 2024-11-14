@@ -56,7 +56,7 @@ N Follow it until you can see Southshore
 N Look for the graveyard to spot Helcular's Grave
 N Wait for the patrol of guards to be far away from the area |N| then hurry and use the grave to turn in Helcular’s Revenge|
 
-T N Helcular's Revenge (Part 2) |QID|553|
+T Helcular's Revenge (Part 2) |QID|553|
 
 N If you aren’t yet level 36 |N|kill the humans near Alterac Mountains until you need 2,500 experience for level 36|
 N Return to Tarren Mill and take flight to Undercity
