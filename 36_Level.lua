@@ -75,9 +75,9 @@ H Hammerfall |N|Use your hearthstone to return to Hammerfall|
 T Call to Arms (Part 2) |QID|678| 
 T Guile of the Raptor (Part 1) |QID|701|
 
-A Guile of the Raptor (Part 2) |QID|| |N|Accept the next quest: the next part of Guile of the Raptor|
+A Guile of the Raptor (Part 2) |QID|702| |N|Accept the next quest: the next part of Guile of the Raptor|
 
-T Guile of the Raptor (Part 2) |QID|| |N|Run to the forge and turn in Guile of the Raptor|
+T Guile of the Raptor (Part 2) |QID|702| |N|Run to the forge and turn in Guile of the Raptor|
 
 N Wait for a minute |N|then pick up the quest: Guile of the Raptor|
 
@@ -93,7 +93,7 @@ F Orgrimmar |N|Then take the zeppelin to Orgrimmar|
 N Make sure to set your hearthstone to Orgrimmar once you arrive |T|
 h Orgrimmar
 
-Run to the Cleft of Shadows and accept the quest: Alliance Relations
+N Run to the Cleft of Shadows and accept the quest: Alliance Relations
 
 A Alliance Relations (Part 1) |QID|1431|
 N Run to the western gate of Orgrimmar and turn in Alliance Relations
@@ -106,6 +106,8 @@ F Thunder Bluff |N|Take a flight to Thunder Bluff|
 N Run to Hunter Rise and hand in Frostmaw to reach level 37
 
 T Frostmaw |QID|1136|
+
+B Buy or craft some Elixir of water breathing for future |N|if you are not a warlock|
 
 N Guide Complete |N|Tick to continue to the next guide|
 
