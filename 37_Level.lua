@@ -43,16 +43,18 @@ A Clam Bait |QID|6142| |N|Clam Bait|
 
 N Run to the docks and accept the quest
 A Other Fish to Fry |QID|6143| |N|Other Fish to Fry|
+A Health and Safety, mon |QID|40678|
 f Shadowprey Village |N|Learn the flightpath|
 
 N Jump in the water and look for Shellfish Traps at the bottom |L|176635| |L|Shellfish Traps|
-
+C Health and Safety, mon |QID|40678|
 N Loot them to collect 10  |L|13545.10|  |L|Shellfish.10|
 
 N Once you have them, head back to the docks
 N Look for a troll by the name of  Jinar'Zillen
 N Exchange your shellfish to get two |L|13546|  |L|Bloodbelly Fish|
 N Make sure you don't eat the fish!
+
 N Before leaving town, make sure to stock up on food and repair
 N Run east along the road out of town
 N Keep running, past the Mannoroc Coven, until you reach the far side of the zone map
@@ -86,9 +88,8 @@ T Bone Collector |QIT|5501| |N|Azore Aldamort in Desolace (61.6,38.5) | |Z|Desol
 N From here, run northeast to find Sargeron
 C Befouled by Satyr |QID|1434| |N|Kill satyrs here until Befouled by Satyr is complete|
 
-N Now head west until you hit the mountains |N|Run south to find Thunder Axe Fortress. Go inside and assign the  [Burning Gem] in your inventory to a hotkey|
-N Kill enemies inside the fortress |N|Before they die, use the Burning Gem on them when they have less than 20% health|
-N Fight your way inside the main room |N|Make your way to the center and kill everything in the room|
+R Thunder Axe Fortress |N|Now head west until you hit the mountains. Run south to find Thunder Axe Fortress. Go inside and assign the  [Burning Gem] in your inventory to a hotkey|
+N Kill enemies inside the fortress |N|Before they die, use the Burning Gem on them when they have less than 20% health. Fight your way inside the main room |N|Make your way to the center and kill everything in the room|
 N Use the crystal to spawn a Demon Spirit |N|Kill and loot it. Exit the building afterwards| |U|6436|
 N Fight your way to the top of the guard tower by the main gate |N|Kill everything in the top room and loot the rod at the top|
 N Keep killing mobs until you have 15 Infused Burning Gems and Flayed Demon Skin |N|| |L|6435.15| |L|20310|
@@ -117,19 +118,20 @@ N Kill naga on Raznajar Isle until you need four bubbles of experience to reach 
 N Once finished, head back southeast across the water
 C Other Fish to Fry |QID|6143| |N|Before leaving the coast, make sure to finish Other Fish to Fry|
 N Head east back to the tower and turn in  Book of the Ancients
-T Book of the Ancients |QID|6027|
+T Book of the Ancients |QID|6027| |N|(38.9,27.2)| |Z|Desolace|
 N Run southeast back to Ghost Walker Post afterwards
 T The Burning of Spirits
-T The Corruptor
+T The Corrupter
 T Befouled by Satyr
-A Alliance Relations |QID|1436 |N|Alliance Relations|
+A Alliance Relations |QID|1436| |N|Alliance Relations|
 
-N Run south along the main road until it curves west. Keep following it until you see Gelkis Village on our left. Enter it and find  npc/5397  Uthek the Wise
+N Run south along the main road until it curves west |N|Keep following it until you see Gelkis Village on our left. Enter it and find Uthek the Wise|
 
 T Gelkis Alliance |QID|1368| |N|Gelkis Alliance|  
 N Leave the village and follow the road back to Shadowprey Village
 R Shadowprey Village
 
+T Health and Safety, mon |QID|40678|
 T Other Fish to Fry |QID|6143|
 T Hand of Iruxos |QID|5381| |N|Hand of Iruxos|
 T Clam Bait |QID|6142| |N|Clam Bait|

@@ -43,7 +43,7 @@ N Run west from the farm to reach Northfold Manor |N|Kill humans here to collect
 
 C Foul Magics |QID|671|
 C Raising Spirits (Part 1) |QID|672|
-N Run east all the way back to Hammerfall |N| Don’t enter town until you have enough raptor eyes|
+N Run east all the way back to Hammerfall |N| Don't enter town until you have enough raptor eyes|
 
 T Foul Magics |QID|671|
 T Raising Spirits (Part 1) |QID|672|
