@@ -25,39 +25,38 @@ N Kill and loot Foreman Cozzle |N|Kill and loot Foreman Cozzle. Run south of the
 N Keep killing goons until Hostile Takeover is done
 C Hostile Takeover |QID|213| |Z|Booty Bay|
 K Lashtail Raptors |QID|196| |N|Afterwards run southwest across the road to find Lashtail Raptors|
-C Raptor Mastery |QID|196| |N|Raptor Mastery|
+C Raptor Mastery (Part 3) |QID|195| |N|Raptor Mastery|
 N Start heading north to get to Nesingwary's Expedition Camp
-R Nesingwary's Expedition Camp
+R Nesingwary's Expedition
 N If you didn't finish Tiger Mastery (Part 3) earlier |N|If you didn't finish Tiger Mastery (Part 3) earlier, make sure to do that before reaching camp|
 N Turn in Raptor Mastery, Panther Mastery, and Tiger Mastery (Part 3)|
-T Raptor Mastery (Part 3) |QID|196| |N|Raptor Mastery|
+T Raptor Mastery (Part 3) |QID|195| |N|Raptor Mastery|
 T Panther Mastery (Part 3) |QID|192| |N|Panther Mastery|
 T Tiger Mastery (Part 3) |QID|187| |N|Tiger Mastery (Part 3)|
 
-N Accept the next follow up quests |N|Accept the next follow up quests: only the next parts of  Raptor Mastery  and  Tiger Mastery (Part 4)|
+N Accept the next follow up quests |N|Accept the next follow up quests: only the next parts of  Raptor Mastery (Part 4) and  Tiger Mastery (Part 4)|
 
 A Raptor Mastery (Part 4) |QID|196|
 A Tiger Mastery (Part 4) |QID|188| 
 
-N |N|Head southwest now all the way to the coast |N|Follow it northwest until you reach the Ruins of Zuuldaia. Kill the trolls here for Shrunken Heads|
-R Ruins of Zuuldaia
-N Shrunken Heads |N|Shrunken Heads| |L|1532| |L|Shrunken Heads|
+N Head southwest now all the way to the coast |N|Follow it northwest until you reach the Ruins of Zuuldaia. Kill the trolls here for Shrunken Heads|
+R Zuuldaia Ruins
+N Shrunken Heads |N|Shrunken Heads| |L|1532.20| |L|Shrunken Heads|
 N Once you have 20 |N|follow the coast back to Grom'gol Base Camp|
 R Grom'gol Base Camp
 
 T Headhunting |QID|582| |N|Headhunting|
 T The Defense of Grom'gol (Part 1) |QID|568|
+A The Defense of Grom'gol (Part 2) |QID|569|
 T Mok'thardin's Enchantment (Part 1) |QID|570|
-
-A Bloodscalp Clan Heads |QID|584| |N|Bloodscalp Clan Heads|
-A The Defense of Grom'gol (Part 2)|QID|569|
 A Mok'thardin's Enchantment (Part 2) |QID|572|
+A Bloodscalp Clan Heads |QID|584| |N|Bloodscalp Clan Heads|
 
 N Run east out of Grom'gol to find the Ruins of Mizjah |N|Run east out of Grom'gol to find the Ruins of Mizjah. Kill ogres here until The Defense of Grom'gol is done.|
 R Ruins of Mizjah
-С The Defense of Grom'gol (Part 2)|QID|569|
+C The Defense of Grom'gol (Part 2) |QID|569|
 R Grom'gol Base Camp |N|Head back to Grom'gol Base Camp by running west|
-T The Defense of Grom'gol (Part 2)|QID|569|
+T The Defense of Grom'gol (Part 2) |QID|569|
 F Booty Bay |N|Afterwards take a flight to Booty Bay|
 T Hostile Takeover |QID|213| |N|Hostile Takeover|
 T Some Assembly Required |QID|577| |N|Some Assembly Required|
@@ -66,8 +65,8 @@ T Goblin Sponsorship (Part 4) |QID|1182| |N|Goblin Sponsorship (Part 4)|
 A Excelsior |QID|628| |N|Excelsior|
 A Skullsplitter Tusks |QID|209| |N|Skullsplitter Tusks|
 A Goblin Sponsorship (Part 5) |QID|1183| |N|Goblin Sponsorship (Part 5)|
-N At this point, you should get a group for Scarlet Monastery |N|At this point, you should get a group for Scarlet Monastery|. 
-N Do all the quests for some nice experience and rewards |N| This will definitely get you to level 39. Alternatively, you can skip ahead to the next section and spend a longer time grinding at the end to level 40|
+N At this point, you should get a group for Scarlet Monastery |N|At this point, you should get a group for Scarlet Monastery|
+N Do all the quests for some nice experience and rewards |N|This will definitely get you to level 39. Alternatively, you can skip ahead to the next section and spend a longer time grinding at the end to level 40|
 
 N Guide Complete |N|Tick to continue to the next guide|
 
