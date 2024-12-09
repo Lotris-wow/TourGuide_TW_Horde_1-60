@@ -46,7 +46,7 @@ N Now run southeast until you hit the road. Follow the road all the way south to
 R Dun Algaz
 N Through Dun Algaz, enter Loch Modan
 R Loch Modan 
-N Once in Loch Modan, run southwest until you find The Loch
+N Once in Loch Modan, run southwest until you find The Loch |N|(30, 25) (47.2, 67) | |Z|Loch Modan|
 R The Loch
 N Run south of The Loch to find the path to Badlands
 R Badlands
