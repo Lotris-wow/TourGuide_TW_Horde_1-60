@@ -110,6 +110,7 @@ N Follow it to find npc "Theldurin the Lost "
 A Solution to Doom |QID|709| |N|Solution to Doom|
 N Now run west from here to find Mirage Flats
 N Kill and collect everything you see here. You need 3 "Large Stone Slabs " and 5  "Rock Elemental Shards "|
+C Study of the Elements: Rock (Part 1) |QID|711|
 N Once your quests are done, keep grinding on the elementals here to reach level 41
 
 N Guide Complete |N|Tick to continue to the next guide|
