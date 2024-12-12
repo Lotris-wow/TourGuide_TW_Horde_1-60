@@ -96,7 +96,10 @@ A Badlands Reagent Run|QID|2258| |N|Badlands Reagent Run|
 N Repair, sell junk, and buy food if needed
 
 N Head northeast, hugging the mountain to your left |N|Kill any buzzards and coyotes that you see. When you see the gnome camp|
-A Study of the Elements: Rock (Part 1)|QID|711|
+A Study of the Elements: Rock (Part 1) |QID|710|
+C Study of the Elements: Rock (Part 1) |QID|710|
+T Study of the Elements: Rock (Part 1) |QID|710|
+A Study of the Elements: Rock (Part 2) |QID|711|
 N From here go east |N| When you hit a mountain, go around it to the south side|
 T Martek the Exiled |QID|1106| |N|Martek the Exiled 
 A Indurium |QID|1108| |N|Indurium| 
@@ -110,7 +113,7 @@ N Follow it to find npc "Theldurin the Lost "
 A Solution to Doom |QID|709| |N|Solution to Doom|
 N Now run west from here to find Mirage Flats
 N Kill and collect everything you see here. You need 3 "Large Stone Slabs " and 5  "Rock Elemental Shards "|
-C Study of the Elements: Rock (Part 1) |QID|711|
+C Study of the Elements: Rock (Part 2) |QID|711|
 N Once your quests are done, keep grinding on the elementals here to reach level 41
 
 N Guide Complete |N|Tick to continue to the next guide|

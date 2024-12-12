@@ -21,8 +21,8 @@ T Barbecued Buzzard Wings |QID|703|
 T Indurium |QID|1108| |N|Indurium|
 A News for Fizzle |QID|1137| |N|News for Fizzle|
 N Go northwest back to the gnome camp
-T Study of the Elements: Rock (Part 1) |QID|711|
-A Study of the Elements: Rock (Part 2) |QID|712|
+T Study of the Elements: Rock (Part 2) |QID|711|
+A Study of the Elements: Rock (Part 3) |QID|712|
 
 N Now go west all the way back to Kargath
 R Kargath
