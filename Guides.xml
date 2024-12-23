@@ -17,4 +17,6 @@
    <Script file="40_Level.lua"/>
    <Script file="41_Level.lua"/>
    <Script file="42_Level.lua"/>
+   <Script file="43_Level.lua"/>
+   <Script file="44_Level.lua"/>
 </Ui>
