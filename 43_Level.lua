@@ -97,7 +97,8 @@ C Venture Company Mining |QID|600| |N|Venture Company Mining|
 N Return to the road and keep going west across it
 
 N After crossing the road, you should find raptors surrounding Gurubashi Arena
-K raptors |N|Kill them to collect 10| |L|3863.10| |L|Jungle Stalker Feathers|
+K Jungle Stalker |QID|196| |N|Kill them to collect 10| |L|3863.10| |L|Jungle Stalker Feather|
+C Raptor Mastery (Part 4) |QID|196|
 
 N Now run north, swimming across the water, to reach Grom'gol Base Camp
 R Grom'gol Base Camp
@@ -107,9 +108,10 @@ N Follow the shore northwards to locate an  Elder Saltwater Crocolisk
 K Elder Saltwater Crocolisk |QID|| |N|Kill and loot it| |L|4105| |L|Elder Crocolisk Skin|
 N Go northwest now until you see a back way into the troll ruins
 N Follow it to find Nezzliok the Dire Gan'zulah Kill and loot them both to get their heads
-C |QID||
+C Bloodscalp Clan Heads |QID|584|
+
 N Leave the ruins and go east towards Nesingwary's Expedition Camp. 
-T Raptor Mastery
+T Raptor Mastery (Part 4) |QID|196|
 A The Green Hills of Stranglethorn |QID|338| |N|The Green Hills of Stranglethorn|
 N Accept all four of the following quests
 A Chapter I |QID|339| |N|Chapter I|
